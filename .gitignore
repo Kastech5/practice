@@ -129,6 +129,10 @@ dmypy.json
 *.swo
 *~
 
+# Cursor settings (keep these tracked)
+!.cursor/
+!.cursor/**
+
 # macOS
 .DS_Store
 
